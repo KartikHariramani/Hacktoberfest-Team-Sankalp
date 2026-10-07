@@ -348,10 +348,11 @@ To clarify the scope for the hackathon evaluator:
 
 ---
 
-### Team
+### Team: Sankalp
 - **Kamal Hariramani**
-- **Vikrant**
-- **Jayesh**
+- **Keshva Kathane**
+- **Krish Mishra**
+- **Vanshaj Dudhe**
 *(Specific technical roles to be finalized during implementation).*
 
 ---
